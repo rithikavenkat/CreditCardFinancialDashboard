@@ -49,4 +49,10 @@ For detailed documentation, including a full project overview, objectives, chall
 - **Real-Time Data Tracking**: Provided weekly updates to support agile strategy shifts.
 - **Engaging Visualizations**: Dashboard interactivity kept stakeholders engaged with the data.
 
+### Viewing the Power BI Dashboard
+To view the dashboard:
+1. Download the `.pbix` file from this repository: [CreditCardReport.pbix](https://github.com/rithikavenkat/CreditCardFinancialDashboard/blob/main/CreditCardReport.pbix).
+2. Open the file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/), which can be downloaded for free.
+
+
 
