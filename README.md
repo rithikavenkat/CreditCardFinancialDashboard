@@ -37,17 +37,17 @@ Some of the key DAX calculations used in this project include:
 - **Enhanced Revenue Tracking**: Weekly and quarterly trends allow for agile decision-making.
 - **Informed Marketing Campaigns**: Spending analysis enables tailored campaigns based on popular categories like grocery and entertainment.
 - **Product Development**: Usage analysis informed credit card feature adjustments and new product planning.
- 
+
+ ### Reflections and Key Takeaways
+- **Customer Segmentation**: Enhanced insights through tailored grouping by demographics.
+- **Real-Time Data Tracking**: Provided weekly updates to support agile strategy shifts.
+- **Engaging Visualizations**: Dashboard interactivity kept stakeholders engaged with the data.
+
+---
 
 ### Documentation
 For detailed documentation, including a full project overview, objectives, challenges, methodologies, and results, refer to the [CreditCard FinancialDashboard Documentation](https://github.com/rithikavenkat/CreditCardFinancialDashboard/blob/main/CreditCard_FinancialDashboard_Documentation.docx).
 
----
-
-### Reflections and Key Takeaways
-- **Customer Segmentation**: Enhanced insights through tailored grouping by demographics.
-- **Real-Time Data Tracking**: Provided weekly updates to support agile strategy shifts.
-- **Engaging Visualizations**: Dashboard interactivity kept stakeholders engaged with the data.
 
 ### Viewing the Power BI Dashboard
 To view the dashboard:
