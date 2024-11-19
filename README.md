@@ -46,7 +46,7 @@ Some of the key DAX calculations used in this project include:
 ---
 
 ### Documentation
-For detailed documentation, including a full project overview, objectives, challenges, methodologies, and results, refer to the [CreditCard FinancialDashboard Documentation](https://github.com/rithikavenkat/CreditCardFinancialDashboard/blob/main/CreditCard_FinancialDashboard_Documentation.docx).
+For detailed documentation, including a full project overview, objectives, challenges, methodologies, and results, refer to the [CreditCard FinancialDashboard Documentation](https://github.com/rithikavenkat/CreditCardFinancialDashboard/blob/main/CreditCard_FinancialDashboard_Documentation.pdf).
 
 
 ### Viewing the Power BI Dashboard
